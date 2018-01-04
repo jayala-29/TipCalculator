@@ -28,13 +28,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/eNnsDPq.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/eNnsDPq.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Some challenges include unfamilarity with Swift syntax and updated APIs, lots of trial and error. Also, centering labels and UI features did not match simulator so I had to manually move items in order to make them show up correctly.
+Some challenges include unfamilarity with Swift syntax and updated APIs, lots of trial and error. Also, centering labels and UI features did not match simulator so I had to manually move items in order to make them show up correctly. Getting gif to show correctly
 
 ## License
 
