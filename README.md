@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Some challenges include unfamilarity with Swift syntax and updated APIs, lots of trial and error. Also, centering labels and UI features did not match simulator so I had to manually move items in order to make them show up correctly. Getting gif to show correctly
+Some challenges include unfamilarity with Swift syntax and updated APIs, lots of trial and error. Also, centering labels and UI features did not match simulator so I had to manually move items in order to make them show up correctly. Getting gif to render correctly.
 
 ## License
 
