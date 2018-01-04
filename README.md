@@ -23,6 +23,7 @@ The following **additional** features are implemented:
 * [x] Provides external links
 * [x] Custom percentage on main screen
 * [x] About Me page in Settings
+* [x] See tip values for 1-4 people
 
 ## Video Walkthrough 
 
